@@ -1,0 +1,11 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "ec2-pivot-dns-default",
+      "Effect": "Allow",
+      "Action": [],
+      "Resource": []
+    }
+  ]
+}
